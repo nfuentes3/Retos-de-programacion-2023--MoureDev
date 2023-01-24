@@ -1,5 +1,7 @@
 import random
 
+print('Probando git y sus commits.')
+
 # Inicializamos las variables con los caracteres
 char_minus = str('abcdefghijklmnñopqrstuvwxyz')
 char_mayus = str(char_minus.upper())
