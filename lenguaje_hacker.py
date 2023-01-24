@@ -8,7 +8,7 @@
 #Inicializamos el texto con un input:
 
 alphabet = {
-        "a": "4",
+    "a": "4",
     "b": "I3",
     "c": "[",
     "d": ")",
